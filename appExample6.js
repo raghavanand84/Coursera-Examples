@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-angular.module("NameCalculator",[])
+angular.module("NameCalculator",[]) 
 .controller("NameCalculatorController",function($scope){
       $scope.name = "Raghav";
       $scope.totolValue = 0;
